@@ -47,7 +47,7 @@ AbcLogistics connects shippers and carriers through a digital platform, reducing
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/shashank2043/AbcLogistics.git
+git clone  https://github.com/chakri574/ABCLogistics.git
 cd AbcLogistics
 ```
 
@@ -91,6 +91,8 @@ AbcLogistics/
 │   │   │   ├── models/
 │   │   │   ├── repositories/
 │   │   │   ├── services/
+|   |   |   ├── entitys/
+│   │   │   ├── exceptions /
 │   │   ├── resources/
 │   │   │   ├── application.properties
 │   └── test/
@@ -100,6 +102,3 @@ AbcLogistics/
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-[Add your chosen license here, e.g., MIT]
